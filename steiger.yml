@@ -1,5 +1,5 @@
 build:
   app:
-    type: railpack
+    type: docker
     nonroot: true
     context: .
